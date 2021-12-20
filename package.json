@@ -15,12 +15,12 @@
   "license": "GPL-3.0-only",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ozelot379/ConvertJavaTextureToBedrock.git"
+    "url": "git+https://github.com/Kartik-dev72/ConvertJavaTextureToBedrock.git"
   },
   "bugs": {
-    "url": "https://github.com/ozelot379/ConvertJavaTextureToBedrock/issues"
+    "url": "https://github.com/Kartik-dev72/ConvertJavaTextureToBedrock/issues"
   },
-  "homepage": "https://github.com/ozelot379/ConvertJavaTextureToBedrock#readme",
+  "homepage": "https://github.com/Kartik-dev72/ConvertJavaTextureToBedrock#readme",
   "dependencies": {},
   "devDependencies": {
     "@ozelot379/convert-minecraft-java-texture-to-bedrock": "latest",
