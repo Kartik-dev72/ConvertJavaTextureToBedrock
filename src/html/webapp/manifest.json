@@ -1,0 +1,15 @@
+{
+  "name": "Resource Pack Converter",
+  "short_name": "Converter",
+  "lang": "en-US",
+  "start_url": "/src/html/index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/src/html/webapp/android-chrome-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ]
+}
